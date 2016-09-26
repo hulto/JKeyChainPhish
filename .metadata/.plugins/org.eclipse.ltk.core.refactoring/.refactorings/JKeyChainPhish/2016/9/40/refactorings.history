@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 2 elements from project &apos;JKeyChainPhish&apos;&#x0A;- Original project: &apos;JKeyChainPhish&apos;&#x0A;- Original elements:&#x0A;     forms-1.3.0.jar&#x0A;     miglayout15-swing.jar" description="Delete elements" element1="forms-1.3.0.jar" element2="miglayout15-swing.jar" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="2" stamp="1474923458162" subPackages="false" version="1.0"/>
+</session>

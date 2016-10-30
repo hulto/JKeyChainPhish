@@ -6,6 +6,9 @@
 #include <openssl/des.h>
 #include <sys/sysctl.h>
 
+//Credit to juuso
+//https://github.com/juuso/keychaindump/blob/master/keychaindump.c
+
 // This structure's fields are pieced together from several sources,
 // using the label as an identifier. See find_or_create_credentials.
 typedef struct t_credentials {
